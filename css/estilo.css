@@ -9,10 +9,10 @@ header, .main, footer{
     background:#fff;
     width:90%;
     max-width:1000px;
-    margin: 20px auto;
+    margin:20px auto;
 }
 header nav{
-    background: #0934a8;
+    background:#0934a8;
     overflow:hidden;
 }
 header nav ul{
@@ -28,7 +28,7 @@ header nav ul li a{
     text-decoration:none;
 }
 header nav ul li a:hover{
-    background: black;
+    background:black;
 }
 .main .articles {
     width:68.5%;
@@ -42,15 +42,15 @@ header nav ul li a:hover{
 }
 aside{
     width:30%;
-    background: #F5F3F3;
+    background:#F5F3F3;
     float:left;
     padding:20px;
     box-sizing:border-box;    
 }
 footer{
-    background-color: blue;
-    color: #fff;
+    background-color:#0934a8;
+    color:#fff;
     clear:both;
-    padding:10PX;
+    padding:10px;
     text-align:center;
 }
